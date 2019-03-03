@@ -1,0 +1,91 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+.form
+{
+	align-content: center;
+    margin: auto;
+    width: 1000px;
+    margin-top: 50px;
+    padding: 19px;
+    background-color: #b8b894;
+    border-radius: 4px;
+}
+.jumbotron
+{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+  padding-left: 60px;
+  margin-left: 30px;
+  padding-right: 60px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color:  #ffe6e6;
+}
+
+.jumbotron  h1
+{
+	background-color: #ffcccc;
+    text-decoration-style: solid;
+    text-align: center;
+    color: #3f40a2;
+  }
+.h1 display-4
+{
+	background-color:  #ff99cc;
+}
+.well
+{
+	align-content: center;
+	margin: auto;
+	width: 1000px;
+	margin-top: 50px;
+	padding: 19px;
+  background-color: #f44336;
+  border-radius: 4px;
+  
+}
+.title
+{
+	text-align: center;
+	display: block;
+  font-size: 1.5em;
+  margin-before: 0.83em;
+  margin-after: 0.83em;
+  margin-start: 0px;
+  margin-end: 0px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.lead
+{
+
+}
+.content
+{
+	  background: #888;
+    color: #fff;
+    margin: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 50px;
+    padding-left: 20px; 
+    padding-top: 15px;
+}
+.pull-right
+{
+	 float: right;
+    padding-left: 15px;
+    color: #104604;
+}
+
+.link1
+{
+    float: right;
+    padding-left: 15px;
+    color: #104604;
+}
